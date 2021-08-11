@@ -1,0 +1,13 @@
+a= "hi this is gaurav  shankar    kumar"
+doublespace= a.find("  ")
+print(doublespace)
+doublespace= a.find("    ")
+print(doublespace)
+a= a.replace("  "," ")
+print(a)
+doublespace= a.find("  ")
+print(doublespace)
+a= a.replace("  "," ")
+print(a)
+doublespace= a.find("  ")
+print(doublespace)

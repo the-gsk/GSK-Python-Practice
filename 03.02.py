@@ -1,0 +1,25 @@
+name= "gaurav shankar kumar" 
+print(name[5])
+# name[5]="d" -->doesn't work
+print(name[1:4])
+print(name[0:4])
+print(name[:4])
+print(name[1:])
+print(name[-4:-1])
+print(name[-4:])
+print(name[:-1])
+print(name[1:11:2])
+print(name[1::2])
+print(name[:12:2])
+print(len(name))
+print(name.endswith("ghi"))
+print(name.endswith("mar"))
+print(name.count("a"))
+print(name.count("a"))
+print(name.count("a"))
+print(name.capitalize())
+# print(name.capitalize(5))----->doesn't work
+print(name.find("sha"))
+print(name.find("hrha"))
+print(name.replace("kumar","mahato"))
+

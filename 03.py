@@ -1,0 +1,16 @@
+a= 30
+b= '35'
+c= 40.25
+print (type(a))
+print (type(b))
+print (type(c))
+print (a,b,c)
+print (a+c)
+a= float(a)
+b= int(b)
+c= str(c)
+print (type(a))
+print (type(b))
+print (type(c))
+print (a,b,c)
+print (a+b)

@@ -1,0 +1,11 @@
+f1=input("Enter the name of fruits 1: ")
+f2=input("Enter the name of fruits 2: ")
+f3=input("Enter the name of fruits 3: ")
+f4=input("Enter the name of fruits 4: ")
+f5=input("Enter the name of fruits 5: ")
+f6=input("Enter the name of fruits 6: ")
+f7=input("Enter the name of fruits 7: ")
+f= [f1, f2, f3, f4, f5, f6, f7]
+print("list of fruits: ",f)
+f.sort()
+print("sorted list of fruits: ",f)

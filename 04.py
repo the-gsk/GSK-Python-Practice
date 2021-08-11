@@ -1,0 +1,7 @@
+a = input("Enter you name: ")
+b= input("Date of year: ")
+b= int(b)
+print("Hi,",a ,"\nyou are very lucky today")
+print("Your age is",(2021-b))
+print(type(a))
+print (type(b))

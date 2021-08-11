@@ -1,0 +1,11 @@
+a= input("Enter First number: ")
+b= input("Enter Second number: ")
+c= input("Enter Third number: ")
+d= input("Enter Fourth number: ")
+a= int(a)
+b= int(b)
+c= int(c)
+d= int(d)
+avg= (a+b+c+d)/4
+print(a+b+c+d)
+print("The Average Value is: ",avg)
