@@ -1,4 +1,4 @@
-a_= 'gaurav'
+a_= 'Gaurav'
 b= 28
 c= 10.5
 print (a_,b,c)
